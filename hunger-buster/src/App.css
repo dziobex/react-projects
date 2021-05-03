@@ -1,0 +1,44 @@
+body {
+  font-family: 'Comic Sans MS';
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+.App {
+  text-align: center;
+}
+
+input {
+  font-family: inherit;
+  font-size: 20px;
+  width: 50%;
+  min-height: 50px;
+  margin-bottom: 10px;
+  background-color: rgb(16, 90, 95);
+  border: none;
+  color: white;
+  padding-left: 10px;
+}
+
+button {
+  font-family: inherit;
+  min-height: 50px;
+  padding: 10px;
+  font-size: 20px;
+  border: none;
+  color: white;
+  background-color: rgb(65, 119, 150);
+}
+
+h1 {
+  font-size: 40px;
+}
+
+a {
+  color: rgb(0, 38, 255);
+  text-decoration: none;
+  font-size: 18px;
+}
+
+a:visited {
+  color: rgb(61, 0, 85);
+}

@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Delius', cursive;
+}
+
+button {
+  font-family: inherit;
+}

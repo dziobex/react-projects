@@ -1,0 +1,49 @@
+.task {
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 5px;
+    width: 50%;
+    height: 38px;
+    margin: auto;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.closeBtn {
+    color:white;
+    background-color: red;
+    font-family: 'Arial';
+    border: none;
+    width: 25px;
+    height: 25px;
+    float: right;
+    margin-right: 10px;
+}
+
+.closeBtn:hover {
+    background-color: rgb(255, 112, 112);
+}
+
+.editBtn {
+    color:white;
+    background-color: green;
+    font-family: 'Arial';
+    border: none;
+    width: 25px;
+    height: 25px;
+    float: right;
+    margin-right: 3px;
+}
+
+.editBtn:hover {
+    background-color: rgb(70, 139, 70);
+}
+
+.mess {
+    font-family: inherit;
+    font-size: inherit;
+    width: 85%;
+    border: none;
+    background-color: inherit;
+}
