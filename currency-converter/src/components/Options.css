@@ -1,0 +1,38 @@
+input {
+    width: 65%;
+    font-size: 20px;
+    justify-content: center;
+    display: inline-flex;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+select {
+    height: 25px;
+}
+
+.components  {
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 30px;
+    padding: 30px 50px 50px 50px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+#swap {
+    font-size: 40px;
+    margin: 0px;
+    user-select: none;
+}
+
+#swap:hover {
+    color: gray;
+    cursor: pointer;
+}
+
+.flags {
+    width: 30px;
+}
