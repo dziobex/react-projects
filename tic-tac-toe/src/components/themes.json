@@ -1,0 +1,37 @@
+[
+    {
+        "name": "shrimp",
+        "title": "Tic-Tac-Shrimp",
+        "X": "🦐",
+        "O": "👨‍🍳",
+        "li": "🍤"
+    },
+    {
+        "name": "monke",
+        "title": "Tic-Tac-Monke",
+        "X": "🐵",
+        "O": "🍌",
+        "li": "🐒"
+    },
+    {
+        "name": "sushi",
+        "title": "Tic-Tac-Sushi",
+        "X": "🐟",
+        "O": "🍚",
+        "li": "🍣"
+    },
+    {
+        "name": "reading",
+        "title": "Tic-Tac-Reading",
+        "X": "📕",
+        "O": "📰",
+        "li": "💻"
+    },
+    {
+        "name": "cats vs dogs",
+        "title": "Tic-Tac-Catdog",
+        "X": "🐱",
+        "O": "🐶",
+        "li": "🐾"
+    }
+]
