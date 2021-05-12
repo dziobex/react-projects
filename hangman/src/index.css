@@ -1,0 +1,61 @@
+.keyboard {
+  width: 800px;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  margin-top: 100px;
+  transform: translate(-50%, 0);
+  text-align: center;
+}
+
+.keyboard button {
+    width: 40px;
+    height: 40px;
+    font: 25px monospace;
+    margin: 5px;
+
+    border: 2px solid black;
+    box-shadow: 3px 3px 0px 0 black;
+}
+
+.keyboard button:hover, header button:hover {
+  background-color: rgb(219, 219, 219);
+}
+
+.keyboard button:active, header button:active {
+  background-color: rgb(167, 167, 167);
+}
+
+.hangman {
+  position: absolute;
+  left: 5%;
+  top: 20%;
+}
+
+.userInput {
+  margin: auto;
+  font: 50px monospace;
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  transform: translate(-50%, 0);
+  text-align: center;
+}
+
+header {
+  background-color: rgb(134, 134, 134);
+  padding: 20px;
+  font: 15px monospace;
+  color: white;
+  text-align: center;
+}
+
+header button {
+  padding: 10px;
+  font: 25px monospace;
+  margin: 15px;
+
+  border: 2px solid black;
+  box-shadow: 3px 3px 0px 0 black;
+  
+}
